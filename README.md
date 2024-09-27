@@ -1,3 +1,4 @@
+
 # Java Ninja 🥷🏻
 Olá Mundo! Você está no repositório de material de apoio que eu uso para os meus conteúdos sobre java nas plataformas digitais. Sinta-se livre para usar qualquer código disponibilizado, apenas lembre-se de compartilhar o conhecimento sempre que possível! Bons estudos! 🚀❤️
 
@@ -8,4 +9,7 @@ Você pode acessar os vídeos dos conteúdos por meio das minhas redes sociais:
 
 ## Sumário
 
-1. 
+1. Tratando Exceptions like a ninja:
+    - [Repositório do projeto](https://github.com/fid3lles/java-tips/tree/master/controlleradvice)
+    - [Vídeo no Instagram]()
+    - [Vídeo no Tiktok]()
